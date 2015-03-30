@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/types.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/unalcol.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/random.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/gui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/agents.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
